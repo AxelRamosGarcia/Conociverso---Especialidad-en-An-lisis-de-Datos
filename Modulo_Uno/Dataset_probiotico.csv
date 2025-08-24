@@ -1,0 +1,51 @@
+respondent_id,age,gender,education,frequency,product_form,primary_reason,duration_months,perceived_benefit_1_5,side_effects,purchase_place,monthly_spend_MXN,would_recommend,preferred_brand,storage_method,has_allergy,prefer_prescription,gut_health_score_1_10,date_first_use
+12,32,Masculino,Preparatoria/Bachillerato,Semanal,Cápsulas,Inmunidad,12,4,Sí,Consulta médica,231.1,Sí,MarcaE,Refrigerado,No,No,10,45505
+24,43,Femenino,Licenciatura,semanalmente,Yogur/Alimentos,Digestivo,9,5,No,Farmacia,543.09,No,MarcaB,Refrigerado,No,No,10,45576
+3,48,Masculino,Licenciatura,diario,Bebida probiótica,Inmunidad,20,4,No,En línea,661.54,Sí,Otra,Refrigerado,No,No,9,45245
+9,40,Femenino,Licenciatura,semanal,Bebida probiótica,Bienestar general,9,3,No,Supermercado,345.93,No,MarcaE,Temperatura ambiente,No,No,9,45611
+10,55,Masculino,Preparatoria/Bachillerato,Semanal,Cápsulas,Bienestar general,6,5,No,Tienda naturista,398.49,No,MarcaB,Refrigerado,No,No,9,45697
+16,41,Otro/Prefiero no decir,Preparatoria/Bachillerato,Diario,Polvo,Bienestar general,14,4,No,En línea,716.82,No,MarcaE,Refrigerado,No,No,9,45502
+18,65,Femenino,Licenciatura,Diario,Yogur/Alimentos,Inmunidad,26,3,No,Farmacia,462.08,Sí,Otra,Refrigerado,No,No,9,45077
+23,54,Masculino,Licenciatura,Semanal,Cápsulas,Digestivo,11,5,No,Farmacia,328.06,Sí,MarcaC,Refrigerado,No,No,9,45560
+34,31,Otro/Prefiero no decir,Licenciatura,diariamente,Bebida probiótica,Otro,20,5,No,Farmacia,611.9,Sí,MarcaC,Temperatura ambiente,No,No,9,45320
+35,44,Masculino,Preparatoria/Bachillerato,Semanal,Cápsulas,Inmunidad,20,4,No,Supermercado,450.42,Sí,MarcaB,Refrigerado,No,Sí,9,45288
+36,59,Masculino,Preparatoria/Bachillerato,Mensual,Cápsulas,Inmunidad,3,5,No,En línea,137.51,Sí,MarcaE,Refrigerado,Sí,No,9,45793
+38,54,Femenino,Preparatoria/Bachillerato,Diario,Tabletas,Inmunidad,25,5,No,Farmacia,718.25,Sí,MarcaA,No sigue indicación,No,No,9,45155
+40,60,Femenino,Licenciatura,semanal,Cápsulas,Digestivo,13,4,No,Farmacia,252.98,Sí,MarcaB,Refrigerado,No,No,9,45505
+49,39,Femenino,Maestría,diario,Cápsulas,Digestivo,27,4,No,En línea,508.84,Sí,MarcaA,Temperatura ambiente,No,No,9,45083
+4,30,Femenino,Preparatoria/Bachillerato,Mensual,Polvo,Digestivo,0,4,No,En línea,103.39,Sí,MarcaA,Refrigerado,No,No,8,45246
+14,58,Masculino,Secundaria,Semanal,Cápsulas,Digestivo,20,5,No,En línea,595.84,No,MarcaA,Refrigerado,No,Sí,8,45286
+15,55,Femenino,Preparatoria/Bachillerato,semanalmente,Bebida probiótica,Digestivo,20,5,No,Farmacia,306.1,No,Otra,Temperatura ambiente,Sí,No,8,45286
+17,55,Masculino,Licenciatura,diario,Bebida probiótica,Digestivo,22,4,No,Farmacia,584.72,Sí,Otra,Refrigerado,No,No,8,45217
+19,38,Femenino,Preparatoria/Bachillerato,Semanal,Yogur/Alimentos,Digestivo,15,5,No,Supermercado,384.02,No,MarcaA,Refrigerado,Sí,No,8,45440
+21,18,Femenino,Maestría,Nunca,Cápsulas,Digestivo,1,3,No,Supermercado,353.27,Sí,Otra,Refrigerado,No,No,7,45468
+22,21,Masculino,Licenciatura,Nunca,Yogur/Alimentos,Otro,18,5,No,Farmacia,529.14,Sí,MarcaB,Refrigerado,No,No,7,45316
+28,63,Femenino,Maestría,diariamente,Polvo,Bienestar general,19,4,Sí,Farmacia,495.71,Sí,MarcaA,Refrigerado,No,No,8,45337
+29,18,Femenino,Doctorado,Semanal,Bebida probiótica,Digestivo,11,4,No,Farmacia,492.01,No,MarcaA,Temperatura ambiente,No,No,8,45545
+31,51,Femenino,Preparatoria/Bachillerato,Diario,Bebida probiótica,Bienestar general,21,3,No,Farmacia,864.96,No,MarcaB,Temperatura ambiente,No,No,8,45262
+37,60,Masculino,Licenciatura,Semanal,Yogur/Alimentos,Otro,14,4,No,Consulta médica,320.14,Sí,MarcaD,Refrigerado,No,Sí,8,45432
+39,60,Masculino,Licenciatura,Semanal,Bebida probiótica,Digestivo,18,4,Sí,Farmacia,302.1,Sí,MarcaE,Refrigerado,No,No,8,45387
+41,33,Femenino,Preparatoria/Bachillerato,Semanal,Bebida probiótica,Bienestar general,10,5,Sí,Farmacia,398.76,Sí,MarcaB,Temperatura ambiente,No,No,8,45610
+42,55,Femenino,Doctorado,semanalmente,Cápsulas,Digestivo,18,4,No,Farmacia,330.42,Sí,MarcaA,Temperatura ambiente,No,No,8,45303
+47,27,Femenino,Licenciatura,Diario,Cápsulas,Inmunidad,19,5,No,Farmacia,691.47,Sí,MarcaA,Refrigerado,No,No,8,45299
+1,48,Femenino,Licenciatura,Semanal,Cápsulas,Digestivo,18,5,No,Supermercado,269.08,Sí,MarcaC,Refrigerado,No,No,7,45378
+6,37,Femenino,Preparatoria/Bachillerato,mensual,Cápsulas,Inmunidad,1,5,No,Farmacia,191.84,Sí,MarcaB,Temperatura ambiente,No,No,7,45877
+20,34,Femenino,Preparatoria/Bachillerato,semanal,Bebida probiótica,Digestivo,21,5,No,Farmacia,342.22,Sí,MarcaA,No sigue indicación,No,No,7,45267
+25,35,Femenino,Maestría,Nunca,Yogur/Alimentos,Bienestar general,0,1,No,Supermercado,0,Sí,MarcaB,Refrigerado,No,No,7,45577
+26,34,Masculino,Secundaria,mensual,Yogur/Alimentos,Digestivo,7,2,Sí,En línea,160.39,Sí,MarcaC,Refrigerado,No,No,7,45701
+27,29,Femenino,Preparatoria/Bachillerato,Nunca,Cápsulas,Digestivo,0,2,No,Supermercado,0,Sí,MarcaB,Refrigerado,Sí,No,7,45702
+32,27,Femenino,Licenciatura,Diario,Tabletas,Inmunidad,32,3,No,Farmacia,669.38,Sí,Otra,Refrigerado,No,No,7,44914
+33,45,Femenino,Maestría,Semanal,Cápsulas,Digestivo,11,4,No,Farmacia,586,Sí,MarcaB,Refrigerado,No,No,7,45586
+43,60,Femenino,Preparatoria/Bachillerato,Semanal,Tabletas,Inmunidad,16,5,No,En línea,462.32,No,MarcaB,Refrigerado,No,No,7,45424
+44,46,Femenino,Maestría,semanal,Cápsulas,Digestivo,7,3,Sí,Farmacia,439.49,Sí,MarcaB,Refrigerado,No,No,7,45633
+45,49,Masculino,Preparatoria/Bachillerato,Semanal,Polvo,Digestivo,7,3,No,Farmacia,302.73,Sí,MarcaB,Refrigerado,No,No,7,45694
+2,36,Femenino,Maestría,Mensual,Tabletas,Digestivo,5,4,No,Tienda naturista,60.38,No,Otra,Temperatura ambiente,No,No,6,45776
+5,21,Otro/Prefiero no decir,Maestría,mensualmente,Yogur/Alimentos,Digestivo,12,3,No,En línea,228.23,Sí,Otra,Refrigerado,No,No,6,45550
+7,30,Femenino,Licenciatura,Semanal!,Cápsulas,Digestivo,9,4,No,Farmacia,285.71,No,MarcaE,Temperatura ambiente,No,No,6,45636
+8,50,Masculino,Secundaria,semanal,Cápsulas,Digestivo,11,3,No,Supermercado,380.5,No,Otra,No sigue indicación,Sí,No,6,45568
+11,28,Femenino,Licenciatura,semanalmente,Cápsulas,Inmunidad,13,4,No,Farmacia,349.76,Sí,MarcaC,No sigue indicación,No,No,6,45497
+46,49,Femenino,Preparatoria/Bachillerato,Semanal,Cápsulas,Digestivo,13,4,No,Supermercado,192.88,Sí,MarcaE,Refrigerado,No,No,6,45457
+48,23,Femenino,Licenciatura,Semanal,Bebida probiótica,Digestivo,9,3,No,Supermercado,422.48,Sí,MarcaD,No sigue indicación,No,No,6,45593
+50,46,Femenino,Secundaria,mensualmente,Cápsulas,Inmunidad,10,2,No,Farmacia,189.48,Sí,MarcaD,Refrigerado,No,No,6,45578
+13,51,Femenino,Doctorado,diario*,Yogur/Alimentos,Bienestar general,30,3,No,Supermercado,419.4,No,MarcaD,Temperatura ambiente,No,No,5,45000
+30,46,Femenino,Preparatoria/Bachillerato,Mensual,Bebida probiótica,Digestivo,0,4,No,Farmacia,130.27,Sí,Otra,Refrigerado,No,No,5,45546
